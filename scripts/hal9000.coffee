@@ -36,3 +36,11 @@ module.exports = (robot) ->
         robot.http("https://r1d2.herokuapp.com/r1/tomorrow").get() (err, resp, body)->
             showMenu robot, res, "r1", "today"
             return
+
+    robot.hear /(?:what's|what is) (?:\bthe menu\b|\bfor lunch\b)( in R2)? *(?:for|on)? *(tomorrow|Monday|Tuesday|Wednesday|Thursday|Friday)?/i, (res) ->
+        restaurant = 'r1'
+        if res.match[1]
+            restaurant = 'r2'
+        day = res.match[2] || 'today'
+        showMenu robot, res, restaurant, day
+        return
