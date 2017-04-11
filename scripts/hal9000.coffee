@@ -12,4 +12,4 @@ module.exports = (robot) ->
         res.send "You're welcome!"
 
     robot.respond /flip a coin/i, (res) ->
-        res.send res.random ['heads', 'tails']
+        res.send res.random ['Heads!', 'Tails!']
