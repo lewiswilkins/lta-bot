@@ -20,4 +20,4 @@ module.exports = (robot) ->
             if err
                 res.send "Error: #{err}"
                 return
-            res.send body
+            res.reply body
