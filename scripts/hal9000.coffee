@@ -14,3 +14,10 @@ module.exports = (robot) ->
 
     robot.respond /flip a coin/i, (res) ->
         res.send res.random ['heads', 'tails']
+
+    robot.hear /test/i, (res) ->
+        robot.http("https://r1d2.herokuapp.com/r1/tomorrow").get() (err, resp, body)->
+            if err
+                res.send "Error: #{err}"
+                return
+            res.send body
