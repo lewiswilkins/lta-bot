@@ -11,3 +11,6 @@ module.exports = (robot) ->
 
     robot.respond /(thank you|i'?m proud of you|nice work|good work|good bot|you'?re the best)/i, (res) ->
         res.send "You're welcome!"
+
+    robot.respond /flip a coin/i, (res) ->
+        res.send res.random ['heads', 'tails']
