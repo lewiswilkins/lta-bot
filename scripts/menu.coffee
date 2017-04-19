@@ -58,3 +58,6 @@ module.exports = (robot) ->
     day = res.match[3] || 'today'
     showSingleMenu robot, res, restaurant, day, type
     return
+
+    robot.respond /(?:what's|what’s|what is) the (\w+) soup (in R2)? *(?:for|on)? *(tomorrow|Monday|Tuesday|Wednesday|Thursday|Friday)?/i, (res) ->
+      res.reply "Bland, but cheap!"
