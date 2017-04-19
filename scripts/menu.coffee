@@ -59,5 +59,6 @@ module.exports = (robot) ->
     showSingleMenu robot, res, restaurant, day, type
     return
 
-    robot.respond /(?:what's|what’s|what is) the (\w+) soup (in R2)? *(?:for|on)? *(tomorrow|Monday|Tuesday|Wednesday|Thursday|Friday)?/i, (res) ->
-      res.reply "Bland, but cheap!"
+  robot.respond /(?:what's|what’s|what is) the soup/i, (res) ->
+    res.send res.random ["Bland, but cheap!", "Probably not worth the effort", "Pixie dust", "Lukewarm", "Grey", ":mask:"]
+    return
