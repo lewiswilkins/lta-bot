@@ -13,3 +13,6 @@ module.exports = (robot) ->
 
     robot.respond /flip a coin/i, (res) ->
         res.send res.random ['Heads!', 'Tails!']
+
+    robot.respond /what do you think of deshan/i, (res) ->
+        res.send res.random ['He is a massive cunt.', 'I don't like him and I don't understand why anyone would.', 'I hate him!!']	
