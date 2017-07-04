@@ -44,7 +44,7 @@ module.exports = (robot) ->
     showMenu robot, res, restaurant, day
     return
 
-  robot.hear /(?:what's|what’s|what is) the (\w+) (?:\bmenu\b|\blunch\b|\boption\b|\bchoice\b|\bdish\b)? (in R2)? *(?:for|on)? *(tomorrow|Monday|Tuesday|Wednesday|Thursday|Friday)?/i, (res) ->
+  robot.hear /(?:what's|what’s|what is) the (\w+|rabbit food) (?:\bmenu\b|\blunch\b|\boption\b|\bchoice\b|\bdish\b)? (in R2)? *(?:for|on)? *(tomorrow|Monday|Tuesday|Wednesday|Thursday|Friday)?/i, (res) ->
     type = res.match[1] || 'error'
     if type == 'murder'
       type = 'menu1'
