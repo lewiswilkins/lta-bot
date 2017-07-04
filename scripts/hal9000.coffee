@@ -15,4 +15,7 @@ module.exports = (robot) ->
         res.send res.random ['Heads!', 'Tails!']
 
     robot.respond /what do you think of deshan/i, (res) ->
-        res.send res.random ['He is a massive cunt.', 'I don't like him and I don't understand why anyone would.', 'I hate him!!']	
+        res.send res.random ['He is a massive cunt.', "I don't like him and I don't understand why anyone would.", 'I hate him!!']	
+    
+    robot.hear /deshan/i, (res) ->
+    	res.reply "Never mention the devils name."
