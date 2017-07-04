@@ -50,6 +50,8 @@ module.exports = (robot) ->
       type = 'menu1'
     if type == 'carnivore'
       type = 'menu1'
+    if type == 'rabbit food'
+      type = 'vegetarian'
     if type == 'other'
       type = 'menu2'
     restaurant = 'r1'
