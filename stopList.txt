@@ -1,0 +1,843 @@
+2MON,Deux Montagnes
+31DC,31 Décembre
+AAIN,Avenue de l’Ain
+ABBA,L'Abbaye
+ABON,Abondance
+ACAC,Acacias
+ACCM,Communauté-Communes
+ACCV,Centre de Convention
+ACIA,Acacias
+ADLI,Adrien-Ligué
+ADOU,Ancienne-Douane
+AERO,Aéroport
+AGAZ,Usine à Gaz
+AGLA,Les Aglands
+AGVR,Aigues-Vertes
+AIRE,Aïre
+AIVI,Aire-la-Ville
+AJEN,Jeandin
+AJUR,Avenue du Jura
+ALBA,Avully-Bachères
+ALEC,Avully-Ecole
+ALGE,Avully-Gennecy
+ALMA,Avully-Martinet
+ALPE,Alpes
+ALTE,Altéa
+ALVI,Avully-Village
+AMDO,Amandolier
+ANCH,Anieres-Chavanne
+ANCI,Ancienne
+ANDO,Anières-Douane
+ANFR,Anc. Fruitière
+ANGA,Annemasse Gare
+ANGR,Anières-Gravière
+ANMA,Anières-Mairie
+ANPT,Annemasse Poste
+ANRS,Anières-Village
+APCB,Pont de Combe
+APIA,Appia
+ARAN,Arande
+ARAR,Arare
+AREN,Arena-Halle 7
+ARME,Armes
+ARTI,Artisans
+ATEC,Athenaz-Ecole
+ATHE,Athénée
+ATTV,Attenville
+ATVI,Athenaz-Village
+AUBI,Merle-d'Aubigné
+AUGS,Augustins
+AUMO,Aumônes
+AVAN,Avanchet
+AVIA,Aviateurs
+AVSY,Avusy
+BADO,Badosse
+BAIL,Les Baillets
+BAIR,Bel-Air
+BALE,Battelle
+BALX,Balexert
+BANS,Bains
+BARA,Les Baraques
+BARD,Barde
+BASL,Basselat
+BAUD,Curé-Baud
+BAUM,Baumgartner
+BBAY,Bois-de-Bay
+BCOL,Bas-Collonges
+BCRE,Baulacre
+BDOU,Bourdigny-Douane
+BELC,Belle-Cour
+BELL,Bellerive
+BELS,Bellins
+BERU,Champ Berou
+BERV,Beaumont-Rte de Viry
+BESS,Bessinge
+BFOU,Bourg-de-Four
+BGOU,Bois-Gourmand
+BGRI,Les Bougeries
+BHET,Bachet-de-Pesay
+BICH,Biches
+BICN,Belle-Idée-Chênes
+BISA,Belle-Idée-Salève
+BISE,La Bise
+BIT0,BIT
+BLAN,Blanche
+BLCH,Blanchards
+BLDO,Blandonnet
+BLHE,Blanché
+BLID,Belle-Idée
+BLOC,Château-Bloch
+BLOE,Baron de Loë
+BLTE,La Belotte
+BMON,Bout-du-Monde
+BNDL,Bandol
+BOCA,Bois-Caran
+BOCH,Bois-Chatton
+BOGA,Bois-Galland
+BOHT,Bouchet
+BOIS,Boissier
+BOLA,Bois-du-Lan
+BOLX,Bouleaux
+BOND,La Blonde
+BOQU,Boqueteaux
+BORN,Ch. des Bornes
+BOSY,Bossy
+BOUV,Les Bouveries
+BOVE,La Boverie
+BRDX,Bardonnex
+BRET,Bretonnière
+BRUN,Brunette
+BSEJ,Beau-Séjour
+BSOL,Beau-Soleil
+BSOU,Bourdigny-Dessous
+BSSN,Bossons
+BSSY,Bassy
+BSUS,Bourdigny-Dessus
+BTIQ,La Boutique
+BTNI,Butini
+BUGN,Bugnons
+BUSS,Les Bussioz
+BUTN,Pont-Butin
+BVRD,Bonvard
+BVYL,Bovy-Lysberg
+BXEG,Bernex-Eglise
+BXMA,Bernex-Mairie
+BXPL,Bernex-Place
+BXSA,Bernex-Saule
+CAAM,Carre-d'Amont
+CABO,Bains de Cressy
+CADO,Cara-Douane
+CALA,Calas
+CAMA,Carouge-Marché
+CAMP,Campanules
+CAND,Bois Candide
+CANI,Vésenaz-Californie
+CANO,Canonnière
+CAPI,Capite
+CARO,Caron
+CARR,Rue Carrée
+CASI,Casino
+CAST,Castan
+CATH,Cathédrale
+CAVE,La Cave aux Fées
+CAVX,Canal de Versoix
+CBAC,Chemin du Bac
+CBET,Combettes
+CBFO,Chambésy-Fontaine
+CBOI,Chemin des Bois
+CBPL,Chambésy-Place
+CBRI,De-Chateaubriand
+CCAP,Crêts-de-la-Capite
+CCAR,Champ-Carré
+CCHA,Crêts-de-Champel
+CCLA,Collège Claparède
+CCOL,Croisée de Cologny
+CCOT,Charcot
+CCVT,Croix-de-Chavant
+CDCH,Champ-Dollon chalet
+CDOL,Champ-Dollon
+CEAU,Croisée d'Eaumorte
+CEBE,Bois-Chébé
+CENT,Centenaire
+CEPR,Ch. de l'Eperon
+CERG,St Cergues Mairie
+CERN,CERN
+CERV,Cervonnex
+CESL,Collège P. Langevin
+CETX,Certoux
+CFIL,Champ-des-Filles
+CFLO,Crêts-de-Florissant
+CFOU,Ch. des Fours
+CFRE,Champs-Fréchets
+CFUS,Champ-Fusy
+CGNY,Chougny
+CHAB,Beaumont Chable
+CHAR,Charrot
+CHAV,Chavannes des Bois
+CHCL,Champ-Claude
+CHDO,Ch. de la Douane
+CHEC,Challex-Ecole
+CHHA,Challex-La Halle
+CHLA,Châtelaine
+CHLE,Chens-sur-Léman
+CHLX,Choulex
+CHMA,La Chaumaz
+CHNE,Chêne-Bougeries
+CHOR,Centre Horticole
+CHPC,Chablais-Parc
+CHPR,Ch. des Princes
+CHRM,Charmilles
+CHSE,Challex-Eglise
+CHTE,Ch. du Terraillet
+CHTS,Chânats
+CHVO,Château de Voltaire
+CHVR,Chevrier
+CIMT,Cimetière St-Georges
+CING,Camping Bois-de-Bay
+CIPO,Corsier-Port
+CIRQ,Cirque
+CIVI,Corsier-Village
+CLAP,Claparède
+CLBH,Collonges-Bourg Haut
+CLDR,Calandrini
+CLFL,Clos-Fleury
+CLGE,Collonge
+CLIG,Cité Lignon
+CLJO,Collège Le Joran
+CLLY,Choully
+CLMA,Collonges-Mairie
+CLYS,Ch. des Clys
+CMAR,Camille-Martin
+CMOL,Clos du Môlan
+CMRE,Communes-Réunies
+CNAE,Chênaie
+CNDA,Canada
+COBI,Colombières
+COCH,Conches
+COCU,Cocuaz
+CODN,Colladon
+COLE,Collège du Léman
+COLO,Colovrex
+COLX,Ch. de Collex
+COMC,Combes Chapuis
+CONF,Confignon-Mairie
+COPC,Coprin Chevelu
+COPS,Compesières
+COQU,Coqueloup
+CORB,Corbillettes
+CORD,Concorde
+CORE,Corbière
+COSO,Courson
+COTR,Au Contour
+COUT,Coutance
+COVI,Corsinge-Village
+CPAR,Ch. du Paradis
+CPEL,La Chapelle
+CPLT,Chantepoulet
+CPOI,Compois
+CRBS,Courbes
+CRCH,Croix-en-Champagne
+CRCO,Croisée de Confignon
+CREN,CO Renard
+CRGE,Carouge-Rondeau
+CRIG,Chemin du Righi
+CRNR,Cornière
+CROI,Croisette
+CRRY,Crédery
+CRSY,Cressy
+CRTE,Crête
+CRUP,Creux-du-Loup
+CSLB,CS Bécassière
+CSSM,CS Sous-Moulin
+CTGY,Cartigny
+CTIL,Courtillets
+CTMI,Contamines
+CTNT,Cottenets
+CTRS,Châtaignières
+CUIS,Cuisine
+CVER,Ch. Vert
+CVIN,Gare Cornavin
+CVRN,Chevrens
+CVUE,Claire-Vue
+CXAB,Croix d'Ambilly
+CXCE,Collex-Centre
+CXEC,Collex-Ecole
+CYDN,Chancy-Douane
+CYMA,Cologny-Mairie
+CYNO,Cynodrome
+CYNT,Cessy-Centre
+CYPR,Cyprès
+CYRA,Chancy-Raclerets
+CYTE,Cologny-Temple
+CYUS,Chancy-Usine
+CYVI,Chancy-Village
+CZDN,Croix-de-Rozon-Dne
+CZPL,Croix-de-Rozon-Place
+DARD,Dardagny
+DEHA,De Haller
+DELC,Délices
+DLAY,Delay
+DODE,La Dode
+DOLE,Dôle
+DOUZ,Chandouze
+DRIZ,Drize
+DSTA,Lycée De Staël
+DUCH,Dusonchet
+DWES,De-Westerweller
+EAUM,Eaumorte
+ECOG,Ecogia
+ECU0,Ecu
+EDVA,Vallet
+EGRU,Eglise Russe
+EMED,Ecole-Médecine
+ENVE,Entrée-Versoix
+EPIN,Epinettes
+ESRT,Les Esserts
+ESSE,Essertet
+ESTR,Essertines
+ETOI,P+R Etoile
+EURO,Europe
+EVAU,Evaux
+EVOR,Evordes
+FALQ,Falquets
+FAVR,Place Favre
+FAYA,Les Fayards
+FDUS,Dussaud
+FEMA,Ferney-V.-Mairie
+FENE,La Fenêtre
+FESA,Ferme Sarasin
+FEUL,Feuillat
+FILI,Fillion
+FLCE,Florence
+FLIZ,Liszt
+FLOR,Floralies
+FLRI,Florissant
+FOAN,Anières-Foyer
+FOES,Fontanettes
+FOLN,Foulon
+FONT,Fontenette
+FORU,Forumeyrin
+FOSA,Fossard
+FOUR,Fourches
+FRAN,Franchises
+FRDI,Fraidieu
+FRET,Fret
+FRON,Frontenex
+FRRE,Bois-des-Frères
+FTAI,Foretaille
+FTNE,Les Fontaines
+FVDO,Ferney-V.-Douane
+GAEV,Gare des Eaux-Vives
+GAIN,Gaillardin
+GAIU,La Gabiule
+GAUL,Gen. De Gaulle
+GAUT,Gautier
+GAVA,Gavard
+GCAN,Grange-Canal
+GCHN,Gros-Chêne
+GCLB,Grange-Collomb
+GCMP,Grand-Champ
+GDHA,Grand-Hangar
+GDLA,Grand-Lancy
+GDON,Grand-Donzel
+GEBE,Genthod-Bellevue
+GENT,Bois-Gentil
+GETE,De-Ternier
+GFAQ,Grange-Falquet
+GGNY,Germagny
+GIAC,Giacometti
+GIOL,Gardiol
+GLAI,Galaise
+GLOU,Galeries du Loup
+GMAR,Gaillard-Marché
+GOS0,Gos
+GOUL,Goulart
+GPRE,Grand-Pré
+GRAN,Grangettes
+GRCA,Grand-Cara
+GRDL,Gradelle
+GRES,Grésy
+GROT,Grottes
+GRVI,Meyrin-Gravière
+GSAC,Gd-Saconnex-Place
+GSDN,Gd-Saconnex-Douane
+GSMA,Gd-Saconnex-Mairie
+GSON,Graveson
+GTVI,Genthod-Village
+GUYE,Guye
+GVRI,Genévrière
+GXAI,Gex-Aiglette
+GXGC,Gex-Georges Charpak
+GXPO,Gex-Poste
+GYBA,Baraque-à-Cloud
+GYPO,Gy-Poste
+GYTE,Gy-Temple
+HACH,Hameau de Chèvres
+HAMA,Hauts-de-Magny
+HBOD,Henry Bordeaux
+HBOR,Henri-Bordier
+HERM,Hermance-Village
+HIMP,Hôtel des Impôts
+HOPI,Hôpital
+HTAI,Hautains
+HTCH,Hôpital Trois-Chêne
+HTIN,Hutins
+HTOU,Hôpital de La Tour
+HVIL,Hôtel-de-Ville
+ICC0,ICC
+IFRA,Ile de France
+INDE,Coq-d'Inde
+INDT,Industrielle
+INTR,Intercontinental
+ISAM,Mercier
+JADA,Musée art histoire
+JAGI,Jargilières
+JALP,Jardin-Alpin-Vi.
+JARB,Jardin Botanique
+JBRT,Berthet
+JEUN,Rte des Jeunes
+JJAC,Jean-Jacques
+JLIM,Joli-Mont
+JMEL,Jumelles
+JMON,Jean Monnet
+JMOU,Jean Moulin
+JOCT,Jonction
+JPSA,De-Sauvage
+JUBE,Jussy-Bellebouche
+JUCH,Jussy-Château
+JUMR,Jussy-Meurets
+JUPL,Jussy-Place
+JURE,Jurets
+JVIL,De-Joinville
+JVUY,Vüy
+KRIG,Krieg
+LABL,La Blanche
+LACH,La Chêna
+LACO,Laconnex
+LADA,La Dame
+LADO,La Donzelle
+LAFA,Parc La Fantasia
+LAMA,Lancy-Mairie
+LAPR,Lancy-Pont-Rouge
+LAUB,Aubert
+LAVE,L'Avenir
+LBRU,Les Bruyères
+LBUR,Burgy
+LCRE,Les Crêts
+LCTE,La Côte
+LEOF,Léo Ferré
+LERO,Le Rolliet
+LFOR,Le-Fort
+LFRG,La Forge
+LGLI,Lycée des Glières
+LHCY,Hauts-Cessy
+LIBE,Libellules
+LMLD,Les Maladières
+LOCH,En Louche
+LOEX,Loëx-Hôpital
+LOLA,Loëx-Lanance
+LOMB,Lombard
+LOSI,Louis Simon
+LOUR,La Loure
+LOVR,Loveré
+LQUI,Les Quibières
+LRON,Livron
+LTOU,La Tour
+LUGE,Lully-Village
+LULY,Lully
+LVAL,Valencien
+LYIN,Lycée Internat.
+LYON,Lyon
+MACH,Machéry
+MACN,Malval-Centre Nature
+MACP,Malval-Chapelle
+MAGE,Maison-Rouge
+MAHA,Malval-Hameau
+MAIL,Maillard
+MAIX,Maisonnex
+MALA,Malagnou
+MANC,Mancy
+MANU,Manufactures
+MAON,Maison Onésienne
+MAPA,Maison de la Paix
+MARB,Les Marbriers
+MARG,Marguerite
+MASS,Massettes
+MATE,Maternité-Pédiatrie
+MATG,Mategnin
+MATH,Thônex-Mairie
+MAZE,Mazettes
+MCHY,Machilly
+MCON,Maconnex
+MDRZ,Moulins-de-Drize
+MEAU,Maison de l'Eau
+MEES,Meinier-Essert
+MEGL,Meinier-Eglise
+MEMA,Meyrin-Mairie
+MEPR,Meinier-Pralys
+MERV,Mervelet
+METR,Métropole
+MGLA,Morglas
+MGNE,Montagne
+MGRE,Montalègre
+MIDE,Mon-Idée
+MILE,Miléant
+MINE,Mines
+MIRE,Miremont
+MISE,Michel-Servet
+MLBA,Moillebeau
+MLER,Milière
+MLGN,Malagny
+MLIN,Le Moulin
+MLPT,Malpertuis
+MLRD,Molard
+MLVT,Malivert
+MNEU,Maisons-Neuves
+MOIL,Moillesulaz
+MOLE,Môle
+MOLL,Mollaz
+MONB,Mont-rond
+MONE,Lycée J.Monnet
+MONN,Monniaz-Hameau
+MONT,Parc Montessuit
+MORA,Moulin-de-la-Ratte
+MORL,Crêts-de-Morillon
+MOTU,Monthoux
+MOUI,La Mouille
+MOVE,Moulin-de-la-Grave
+MPAR,Maison Parlements
+MRES,Moulières
+MRIC,Moulin Richelien
+MRLG,Merlinge
+MRNE,Moraines
+MSIL,Marsillon
+MSNT,Maisonnette
+MSQU,Montesquiou
+MSSE,La Mousse
+MTBL,Mont-Blanc
+MTCH,Montchoisy
+MTER,Maison du Terroir
+MTFL,Montfleury
+MTOU,Meinier-Tour
+MTTA,Motta
+MUET,Musée d'ethnographie
+MUGE,Muguets
+MURA,Murailles
+MUSE,Muséum
+MUVO,Musée Voltaire
+MVER,Moulin-de-Vert
+MYRN,Meyrin-Village
+NAIS,Nant-d'Aisy
+NAMA,Nant-Malet
+NANT,Le Nant
+NATI,Nations
+NAVI,Navigation
+NYLM,Neydens-Les Mouilles
+OBGE,Observatoire Genève
+OCHT,L'Ouchette
+OMS0,Oms
+OMS9,OMS
+ONCI,Onex-Cité
+ONEX,Onex-Salle communale
+ONMA,Onex-Marché
+ORMA,Ormeaux
+ORRO,Ornex-Les Roussets
+OUCH,Les Ouches
+OULA,Les Oulaines
+OXFR,Ornex-Fruitière
+PAAN,Parc des Anneaux
+PAGN,Place d'Allemogne
+PAIL,Pailly (Balexert)
+PALE,Palettes
+PALL,Dr Palluel
+PARC,Parcs
+PASS,La Passe
+PBAL,Petit-Bel-Air
+PBOC,Pont-Bochet
+PBOU,Pré-Bouvier
+PBRU,Planche-Brûlée
+PCEA,Pont-Céard
+PCHA,Plateau de Champel
+PDRI,Pont-de-Drize
+PEDO,Perly-Douane
+PEIL,Peillonnex
+PEMA,Perly-Mairie
+PENT,Penthes
+PEPA,Petit-Palais
+PESC,Peschier
+PETR,Petray
+PEUP,Peupliers
+PEVI,Perly-Village
+PFLE,Pré-Fleuri
+PFON,Pré-de-la-Fontaine
+PFUM,Parfumerie
+PGRA,Petite-Grave
+PHIL,Philosophes
+PIBO,Pierre à Bochet
+PICY,Piscine de Lancy
+PINC,Pinchat-la-Tour
+PITH,Pictet-Thellus.
+PJAR,Pré-Jardinier
+PLAI,La Plaine-Gare
+PLDI,Palladium
+PLDO,La Plaine-Douane
+PLEC,La Plaine-Ecole
+PLEV,Place des Eaux-Vives
+PLEY,Palais Eynard
+PLGE,Genève-Plage
+PLIO,Lion
+PLLT,Pallanterie
+PLMA,Place des Marchés
+PLNT,Planet
+PLOU,Plan-les-Ouates
+PLPA,Plainpalais
+PLTA,Planta
+PLTZ,La Plantaz
+PLUL,Pont-de-Lully
+PMAR,Puplinge-Marquis
+PMIO,Petit-Miolan
+PMOR,Place A. Moret
+PNEV,Place de Neuve
+POAT,Poizat
+POCH,Port Choiseul
+POGA,Pougny-Gare
+POLT,Place en Poulet
+POMI,Le Pommier
+PONT,Pontets
+POST,Poste
+POTE,Poterie
+POTI,Pottiere
+POUS,Peney-Dessous
+PPAL,Prés-Palais
+PPIN,Plateau de Pinchat
+PPLA,Prénépla
+PPOL,Pré-Polly
+PR47,P+R P47
+PRAR,Prairie
+PRBE,P+R Bernex
+PREL,La Prêle
+PREV,Prevessin-Möens
+PRGM,Meyrin-Gare
+PRGR,Progrès
+PRLA,La Pralay
+PRMO,Pré-Monnard
+PRPE,P+R Perly
+PRRI,Prairie
+PRSM,P+R Sous-Moulin
+PRTN,Printanière
+PRUL,Prulay
+PRVG,Veigy-Douane
+PSAC,Petit-Saconnex
+PSGE,Presinge
+PSIE,Pont-Sierne
+PSRY,Passeiry
+PSSY,Peissy
+PSTA,Parc Stagni
+PSUD,Plein-Sud
+PSUS,Peney-Dessus
+PTAR,Pont-d'Arve
+PTLA,Petit-Lancy
+PTOU,Les Petoux
+PTPE,Pont-de-Peney
+PUFR,Puplinge-Frémis
+PUMA,Puplinge-Mairie
+PVEY,Petit-Veyrier
+PVRT,Place Verte
+PXPH,Palexpo-Halle 7
+PXPO,Palexpo
+PYMA,Pregny-Mairie
+PYVI,Pregny-Village
+QARV,Queue-d'Arve
+QUID,Quidort
+QUOA,Les Quoattes
+RANN,Rte d'Annecy
+RAVI,Ravières
+RBAU,Rouelbeau
+RCOR,Rte de Corsinge
+RCPS,Rte de Compois
+RDAY,Ch. de Roday
+REFT,Le Renfort
+RENF,Renfile
+REPE,Repentance
+REPU,République
+RESI,Résistance
+REVE,Reverdin
+RFEI,Rte de Feigères
+RIAN,Riant-Parc
+RICH,Richelien
+RIEU,Rieu
+RIGO,Rigot
+RIPP,Rippaz
+RIVE,Rive
+RLAC,Rue du Lac
+RLUL,Rte de Lullier
+RMOU,Rue des Mouettes
+RMUG,Rue des Muguets
+ROCH,Roches
+ROSE,Roseraie
+ROUE,Rouette
+ROUS,Collège Rousseau
+RPOS,Le Reposoir
+RPRS,Rte de Presinge
+RSMA,Rte de Saint-Maurice
+RTTE,Rochette
+RUNO,Russin-Noirettes
+RUSS,Russin-Village
+RUTH,Ruth
+RVTT,Rivolette
+SACO,Veyrier-Salle C.
+SADN,Sauverny-Douane
+SAGY,Le Saugy
+SAMA,Sauverny-Martinet
+SANT,St-Antoine
+SARV,Saconnex-d'Arve
+SAUS,Saussac
+SCAS,Sous-Cassan
+SCEC,Sainte-Cécile
+SCHA,Seuchat
+SCLO,Sainte-Clotilde
+SECH,Sécheron
+SEFE,Sézenove-Ferrand
+SELI,Sellières
+SERV,Servette
+SEUJ,Seujet
+SEVI,Sézenove-Village
+SEYM,Seymaz
+SEZG,Sézegnin
+SGBO,Sergy-Bourg
+SGGA,Sergy-Gare
+SGNY,Ségny
+SHUM,Schuman
+SIER,Sierne
+SIGL,SIG Lignon
+SIGN,Signal
+SILO,Sillons
+SIMO,Sismondi
+SION,Sionnet
+SISM,Léonard-Sismondi
+SJCE,St-Julien-Centre
+SJGA,St-Julien-Gare
+SJHO,St-Julien-Hôpital
+SJLH,Lathoy Hameau
+SJRL,Rte de Lathoy
+SJSN,St-Julien SNCF
+SLOU,Saut-du-Loup
+SLSI,La Salésienne
+SMAU,Saint-Maurice
+SOCI,Contrat-Social
+SOLE,Le Soleil
+SORB,Sorbier
+SRMA,Soral-Mairie
+SRVE,Serves
+SRVI,Soral-Village
+SSCH,Sous-Chevrens
+STAL,De-Staël
+STGE,Stade de Genève
+STLA,Stand de Laconnex
+STLO,Saint-Loup
+STND,Stand
+STRC,Stade Trois-Chêne
+SUMO,Sur-le-Moulin
+SUSE,Susette
+SVEY,Stand-de-Veyrier
+SVIL,Sous-Villette
+SVON,Savonnière
+SYCS,Satigny-C. sportif
+SYEG,Satigny-Temple
+SYGA,Satigny-Gare
+SYMA,Satigny-Mairie
+SYPO,Satigny-Poste
+TACO,Taconnerie
+TCAR,Tours-de-Carouge
+TCRE,Tour-Carrée
+TERR,Terret
+TGIN,Tougin-Hôpital
+THGA,Thoiry-Gare
+THMA,Thoiry-Mairie
+THRE,Théâtre
+TILL,Les Tilleuls
+TLIG,Tours Lignon
+TMOU,Terre Mousson
+TOCO,Tour-de-Contrôle
+TOU0,Tourbillon
+TOUR,Tourelle
+TOUV,Touvière
+TRAN,Tranchées
+TRBL,Trèfle-Blanc
+TREU,Treulaz
+TRIZ,Triaz
+TRLL,La Traille
+TRMB,Trembley
+TRSI,Terrassière
+TRTI,Tunnel Routier
+TUIL,La Tuilière
+TURA,Ch. des Turaines
+TVDO,Thônex-Vallard
+TVER,Taverney
+TXMA,Troinex-Mairie
+TXVI,Troinex-Ville
+UBER,Lancy-Hubert
+UIT0,UIT
+UNIM,Uni-Mail
+VALY,Bernex-Vailly
+VAND,Vandoeuvres
+VARV,Val-d'Arve
+VATH,Val-Thoiry
+VAUD,Vaudagne
+VDUR,Duret
+VEEC,Vernier-Ecole
+VEGY,Veigy-Village
+VELO,Vélodrome
+VEMA,Vernier-Marché
+VERB,Verbant
+VERD,Verdun
+VERN,Vernes
+VESY,Vessy
+VEUS,Verseuse
+VEVI,Vernier-Village
+VGEC,Veigy-Ecole
+VGEG,Ville-la-Gd Eglise
+VIAM,Via Monnet
+VIDO,Vidollet
+VILL,Villereuse
+VIPA,Neydens-Vitam
+VIRY,Viry Chef-Lieu
+VIUS,Vieusseux
+VLAI,Valais
+VLLA,Villars
+VLON,Vallon
+VLRS,Velours
+VOIR,Voirets
+VOLL,Vollandes
+VORO,Voirons
+VRAS,Veyrier-Rasses
+VRBE,Varembé
+VRDO,Veyrier-Douane
+VREC,Veyrier-Ecole
+VRLP,Vireloup
+VRMT,Vermont
+VRNT,Vernets
+VROT,Veyrot
+VRTC,Vertes Campagnes
+VSEG,Vésenaz-Eglise
+VSNA,Vésenaz
+VSUI,Village-Suisse
+VTRN,Veyrier-Tournettes
+VTTE,Villette
+VUAT,Vuattes
+VUIL,Vuillonnex
+VVRA,Valavran
+VXAR,Versoix-Argand
+VXBO,Versoix-Bourg
+VXGA,Versoix-Gare
+VXLA,Versoix-Lachenal
+VXVV,Vieux-Valavran
+VYFO,Valleiry Espace FOL
+VYGA,Valleiry-Gare
+WEBR,Weber
+WEND,Wendt
+WTC0,WTC
+ZIMG,ZIMEYSA-Gare
+ZIMO,ZIMOGA
+ZIMW,ZIMEYSA-Ouest
+ZIPL,ZIPLO
